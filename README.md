@@ -59,6 +59,13 @@
      npm start
      ```
 
+6. **Projec
+   
+   https://github.com/user-attachments/assets/02d73df6-8181-4b51-ac38-c667a65f0fee
+
+t Video:**
+
+   
 ## Additional Notes
 
 - Ensure your MongoDB server is running before starting the backend.
